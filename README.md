@@ -1,2 +1,2 @@
 # EHB328E Speech Processing Project
-Bu bir ders projesidir
+Bu bir ders projesidir. Daha fazla aciklama ekleyecegiz.
